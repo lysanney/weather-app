@@ -6,15 +6,15 @@
   border-radius: 10px;
 }
 
+h1 {
+  font-size: 45px;
+  margin-top: 20px;
+}
+
 h2 {
   font-size: 15px;
 }
 
-ul {
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  list-style: none;
+.col {
+  margin-top: 50px;
 }
